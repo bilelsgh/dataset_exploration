@@ -1,4 +1,4 @@
-d   # What's in my data?
+# What's in my data?
 
 [Version: 1.0]
 @bilel.saghrouchni
