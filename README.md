@@ -29,8 +29,8 @@ This application equips data scientists with essential tools for dataset explora
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/X
-  cd X
+  git clone https://github.com/bilelsgh/dataset_exploration
+  cd dataset_exploration
 ```
 2. Install the libraries
 ```bash
