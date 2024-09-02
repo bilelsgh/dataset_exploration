@@ -1,0 +1,15 @@
+
+# BASIS
+numpy~=1.24.3
+pandas~=2.0.3
+plotly==5.18.0 #
+matplotlib~=3.7.5
+PyYAML==6.0.1 #
+seaborn~=0.13.2
+
+# ML
+scikit_learn==1.3.2 #
+imbalanced-learn
+
+
+
