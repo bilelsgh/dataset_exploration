@@ -50,4 +50,5 @@ conf.yaml
   streamlit run dashboards/data_prep.py
 ```
 
-
+## Demo
+![alt_text](https://github.com/bilelsgh/dataset_exploration/blob/master/demo.gif)
